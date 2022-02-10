@@ -17,9 +17,6 @@ Usage:
     $pip install -r requirements.txt
     $ python server.py
 
-Created by:
-* PacM4n
-* @TKemkeu
-
+@PacM4n
     
     
